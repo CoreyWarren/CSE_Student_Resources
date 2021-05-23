@@ -17,7 +17,8 @@ Also look into "how to install jupyter" if you prefer that.
 -Is not future-proof. If Brave changes the layout of this page or deletes it, it will not work any more.
 
 >>Can I just see the results without running it in Python on my computer or on Jupyter ?
-results.png
+results.png   <- The console output
+results2.png  <- The .txt file output
 
 
 

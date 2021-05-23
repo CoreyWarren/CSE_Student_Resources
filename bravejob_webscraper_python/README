@@ -1,3 +1,17 @@
+Aside from the python libraries mentioned directly in the code, you will also need a chromedriver in your PATH to run this code.
+Here you can download chromedrivers:
+https://chromedriver.chromium.org/downloads
+How do I add Python/chromedrivers to PATH so that python can find it?:
+\/
+setx /m path "%path%;c:\WebDriver\bin\"
+/\
+Use the above command, and don't forget to:
+1) Create that actual filepath yourself if it does not exist already.
+2) Place the appropriate chromedriver in this exact location (inside \bin, yes)
+3) Make sure your chrome/brave browser is up to date
+4) Make sure you downloaded the appropriate version of chromedriver
+
+
 #scraper2.py
 #by Corey Warren II
 

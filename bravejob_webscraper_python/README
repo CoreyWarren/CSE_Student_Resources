@@ -11,6 +11,8 @@ Also look into "how to install jupyter" if you prefer that.
 >>What does this program do?
 +Scrape very specific text data from the Brave Careers website.
 +Probably scrape data from other jobs with similar description formats from the same Brave website.
++Output this data to console.
++Output this data directly to a txt file.
 
 >>What does this NOT program do?
 -Does not scrape other websites (Haven't even bothered to try. The code is suited for the specific page's HTML style and whoever wrote it)

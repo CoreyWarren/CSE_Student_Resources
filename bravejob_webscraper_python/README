@@ -26,7 +26,7 @@ results2.png  <- The .txt file output
 HELP:
 ###########################################################
 
-
+(Windows (10?) Users only)
 Aside from the python libraries mentioned directly in the code, you will also need a chromedriver in your PATH to run this code.
 Here you can download chromedrivers:
 https://chromedriver.chromium.org/downloads

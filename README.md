@@ -1,2 +1,2 @@
 # CSE_Student_Resources
-Resources I have used or created that are related to Computer Science undergraduate studies.
+Resources that I have created, as well as the sources used for them. This is stuff I wish I had as a CS Freshman/Sophomore.

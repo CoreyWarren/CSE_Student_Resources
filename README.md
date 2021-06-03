@@ -3,24 +3,28 @@ Resources that I have created, as well as the sources used for them. This is stu
 
 # Planned Resources I need to make:
 
-## ➤Various Sorting Algorithm Methods in Python + Independent Research Paper
-#### >Quick Sort, std::sort, Heap Sort, Insertion Sort
+### ➤How to Succeed as a Student
+Mentality and Individuality as a Student
 
-## ➤The Security of Cryptocurrencies + Independent Research Paper
+Purpose
 
-## ➤Game Theory + Independent Research Paper
+Reaching out to others
 
-## ➤How to Use Github Guide (command console guide)
-#### >Forking/Merging Forks
-#### >Project Organization with 'Projects'
+How to Email Professors
+
+Discord
+
+Independent Study
+
+Impostor Syndrome
+
+Balancing Hobbies
 
 
-## ➤How to Succeed as a Student
->Mentality and Individuality as a Student
->Purpose
->Reaching out to others
->Emailing Professors
->Discord
->Independent Study
->Impostor Syndrome
->Balancing Hobbies
+### ➤Various Sorting Algorithm Methods in Python + Independent Research Paper
+Quick Sort, std::sort, Heap Sort, Insertion Sort
+
+### ➤The Security of Cryptocurrencies + Independent Research Paper
+
+### ➤Game Theory + Independent Research Paper
+

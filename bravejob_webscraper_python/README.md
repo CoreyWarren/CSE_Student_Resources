@@ -1,6 +1,8 @@
 Greetings. 
 This is a simple Python-based web-scraper that I used to extract data from the Brave careers website.
 
+# FAQ:
+
 ## Where is the program?
 scraper2.py
 
@@ -23,55 +25,16 @@ results.png   <- The console output
 results2.png  <- The .txt file output
 
 
-
-###########################################################
-HELP:
-###########################################################
-
-(Windows (10?) Users only)
-Aside from the python libraries mentioned directly in the code, you will also need a chromedriver in your PATH to run this code.
-Here you can download chromedrivers:
-https://chromedriver.chromium.org/downloads
-How do I add Python/chromedrivers to PATH so that python can find it?:
-\/
-setx /m path "%path%;c:\WebDriver\bin\"
-/\
-Use the above command, and don't forget to:
-1) Create that actual filepath yourself if it does not exist already.
-2) Place the appropriate chromedriver in this exact location (inside \bin, yes)
-3) Make sure your chrome/brave browser is up to date
-4) Make sure you downloaded the appropriate version of chromedriver
-
-###########################################################
-STARTING COMMENTS, STRAIGHT FROM THE CODE:
-###########################################################
-
-
-#scraper2.py
-#by Corey Warren II
-
-#The Purpose of this program is to practice web scraping.
-#This code shall also implement some basic custom data
-#cleansing methods.
-#For this code, I will take job data from Brave careers
-#webpage.
-
-#STEP 1: GET URL FROM GRNHSE_IFRAME (aka get the "src")
-#STEP 2: GRAB DATA FROM THE HTML ON THAT NEW URL
-#STEP 3: DO BASIC DATA CLEANSING
-#STEP 4: PRINT TO CONSOLE
-#STEP 5: WRITE TO TXT IN FOLDER
-
-#Resources:
-#Scraping iFrame with python
-#   https://stackoverflow.com/questions/47068125/scraping-iframe-with-python
-#Python String Commands and Manipulation
-#   https://www.w3schools.com/python/python_ref_string.asp
-#   https://www.w3schools.com/python/ref_string_strip.asp
-#   https://gis.stackexchange.com/questions/4748/python-question-how-do-i-extract-a-part-of-a-string
-#How To Build A Web Scraper With Python Using Beautiful Soup [2020] #selftaughtdev
-#   https://www.youtube.com/watch?v=vIjXuYRLge8
-#Python Tutorial: Web Scraping with BeautifulSoup and Requests
-#   https://www.youtube.com/watch?v=ng2o98k983k
-#Python: Keep changes on a variable made within a function
-#   https://stackoverflow.com/questions/53249829/python-keep-changes-on-a-variable-made-within-a-function
+# Code Resources Used:
+###Scraping iFrame with python
+https://stackoverflow.com/questions/47068125/scraping-iframe-with-python
+###Python String Commands and Manipulation
+https://www.w3schools.com/python/python_ref_string.asp
+https://www.w3schools.com/python/ref_string_strip.asp
+https://gis.stackexchange.com/questions/4748/python-question-how-do-i-extract-a-part-of-a-string
+###How To Build A Web Scraper With Python Using Beautiful Soup [2020] #selftaughtdev
+https://www.youtube.com/watch?v=vIjXuYRLge8
+###Python Tutorial: Web Scraping with BeautifulSoup and Requests
+https://www.youtube.com/watch?v=ng2o98k983k
+###Python: Keep changes on a variable made within a function
+ttps://stackoverflow.com/questions/53249829/python-keep-changes-on-a-variable-made-within-a-function

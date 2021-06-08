@@ -28,15 +28,15 @@ results2.png  <- The .txt file output
 
 
 # Code Resources Used:
-###Scraping iFrame with python
+### Scraping iFrame with python
 https://stackoverflow.com/questions/47068125/scraping-iframe-with-python
-###Python String Commands and Manipulation
+### Python String Commands and Manipulation
 https://www.w3schools.com/python/python_ref_string.asp
 https://www.w3schools.com/python/ref_string_strip.asp
 https://gis.stackexchange.com/questions/4748/python-question-how-do-i-extract-a-part-of-a-string
-###How To Build A Web Scraper With Python Using Beautiful Soup [2020] #selftaughtdev
+### How To Build A Web Scraper With Python Using Beautiful Soup [2020] #selftaughtdev
 https://www.youtube.com/watch?v=vIjXuYRLge8
-###Python Tutorial: Web Scraping with BeautifulSoup and Requests
+### Python Tutorial: Web Scraping with BeautifulSoup and Requests
 https://www.youtube.com/watch?v=ng2o98k983k
-###Python: Keep changes on a variable made within a function
+### Python: Keep changes on a variable made within a function
 https://stackoverflow.com/questions/53249829/python-keep-changes-on-a-variable-made-within-a-function

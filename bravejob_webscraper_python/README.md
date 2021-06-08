@@ -18,7 +18,9 @@ Output this data directly to a txt file.
 
 ## What does this NOT program do?
 -Does not scrape other websites (Haven't even bothered to try. The code is suited for the specific page's HTML style and whoever wrote it)
+
 -Is not future-proof. If Brave changes the layout of this page or deletes it, it will not work any more.
+
 
 ## Can I just see the results without running it in Python on my computer or on Jupyter ?
 results.png   <- The console output

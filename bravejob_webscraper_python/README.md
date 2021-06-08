@@ -16,10 +16,10 @@ Probably scrape data from other jobs with similar description formats from the s
 Output this data to console.
 Output this data directly to a txt file.
 
-## What does this NOT program do?
+## What does this program NOT do?
 -Does not scrape other websites (Haven't even bothered to try. The code is suited for the specific page's HTML style and whoever wrote it)
 
--Is not future-proof. If Brave changes the layout of this page or deletes it, it will not work any more.
+-It is not future-proof. If Brave changes the layout of this page or deletes it, it will not work any more.
 
 
 ## Can I just see the results without running it in Python on my computer or on Jupyter ?
@@ -39,4 +39,4 @@ https://www.youtube.com/watch?v=vIjXuYRLge8
 ###Python Tutorial: Web Scraping with BeautifulSoup and Requests
 https://www.youtube.com/watch?v=ng2o98k983k
 ###Python: Keep changes on a variable made within a function
-ttps://stackoverflow.com/questions/53249829/python-keep-changes-on-a-variable-made-within-a-function
+https://stackoverflow.com/questions/53249829/python-keep-changes-on-a-variable-made-within-a-function

@@ -186,5 +186,5 @@ if __name__ == "__main__":
 	a.Solve()							# -> Run the solve function.
 
 	for i in range(len(a.path)):
-		print("%d) " %i + a.path[i])
+		print("%d) " %i + a.path[i])    # -> Print results
 
